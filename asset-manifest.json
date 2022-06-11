@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chatTest/static/css/main.a7bec223.css",
+    "main.js": "/chatTest/static/js/main.41a05600.js",
+    "index.html": "/chatTest/index.html",
+    "static/media/logo.svg": "/chatTest/static/media/logo.cd0b63b8109807e6264373fd9077dba4.svg",
+    "static/media/clock.svg": "/chatTest/static/media/clock.aab5f519d535a0ff6fc555ffd8ebd84b.svg",
+    "static/media/sendMessageImage.svg": "/chatTest/static/media/sendMessageImage.20fbc9bf0a102a7a1b0340c44f2722ac.svg",
+    "main.a7bec223.css.map": "/chatTest/static/css/main.a7bec223.css.map",
+    "main.41a05600.js.map": "/chatTest/static/js/main.41a05600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7bec223.css",
+    "static/js/main.41a05600.js"
+  ]
+}
