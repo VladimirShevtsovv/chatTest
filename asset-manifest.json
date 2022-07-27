@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/chatTest/static/css/main.950767d5.css",
-    "main.js": "/chatTest/static/js/main.4b75b1f8.js",
+    "main.css": "/chatTest/static/css/main.b0e0c517.css",
+    "main.js": "/chatTest/static/js/main.8eadd0af.js",
     "static/media/privatePropImg.svg": "/chatTest/static/media/privatePropImg.f74df04e8319f044e7bf4317e056c319.svg",
     "static/media/phoneLogo.svg": "/chatTest/static/media/phoneLogo.4770a6a87aff4edc24c51bd062457677.svg",
     "static/media/emailLogo.svg": "/chatTest/static/media/emailLogo.26a236a36066da723b53f2ad7e68b416.svg",
     "static/media/allProfiles.svg": "/chatTest/static/media/allProfiles.3d8892ebce0675a5d68473d95f0b37bd.svg",
+    "static/media/iconSelectedMessage.svg": "/chatTest/static/media/iconSelectedMessage.e35a6dc62d39253d7f4e330e1c0fb19e.svg",
     "index.html": "/chatTest/index.html",
     "static/media/editProfileImg.svg": "/chatTest/static/media/editProfileImg.76abfe64ad11685213623944c1870537.svg",
     "static/media/locationLogo.svg": "/chatTest/static/media/locationLogo.57fb07c6732f2987d80e605bbcec8ff5.svg",
@@ -16,18 +17,17 @@
     "static/media/cloaseImg.svg": "/chatTest/static/media/cloaseImg.a583ba6393a1d8176887d9648df7305e.svg",
     "static/media/logo.svg": "/chatTest/static/media/logo.cd0b63b8109807e6264373fd9077dba4.svg",
     "static/media/arrowBack.svg": "/chatTest/static/media/arrowBack.484b7995e2d878cc16914805980c802c.svg",
-    "static/media/clock.svg": "/chatTest/static/media/clock.aab5f519d535a0ff6fc555ffd8ebd84b.svg",
     "static/media/myProfileImg.svg": "/chatTest/static/media/myProfileImg.515d2437df749f89f7f59476f9859367.svg",
     "static/media/searchImg.svg": "/chatTest/static/media/searchImg.43f4c5849647506185e663bf74d2f085.svg",
     "static/media/burger.svg": "/chatTest/static/media/burger.8cdb7bc28a247907b2537c3984606ba9.svg",
     "static/media/sendMessageImage.svg": "/chatTest/static/media/sendMessageImage.20fbc9bf0a102a7a1b0340c44f2722ac.svg",
     "static/media/offlineCircle.svg": "/chatTest/static/media/offlineCircle.054ae057eaf5456c6c1bc2cda76fff8b.svg",
     "static/media/onlineCircle.svg": "/chatTest/static/media/onlineCircle.15f1fff92ca682606a97f54f82db2f3f.svg",
-    "main.950767d5.css.map": "/chatTest/static/css/main.950767d5.css.map",
-    "main.4b75b1f8.js.map": "/chatTest/static/js/main.4b75b1f8.js.map"
+    "main.b0e0c517.css.map": "/chatTest/static/css/main.b0e0c517.css.map",
+    "main.8eadd0af.js.map": "/chatTest/static/js/main.8eadd0af.js.map"
   },
   "entrypoints": [
-    "static/css/main.950767d5.css",
-    "static/js/main.4b75b1f8.js"
+    "static/css/main.b0e0c517.css",
+    "static/js/main.8eadd0af.js"
   ]
 }
