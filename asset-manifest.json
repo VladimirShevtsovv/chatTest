@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chatTest/static/css/main.e1aa0065.css",
-    "main.js": "/chatTest/static/js/main.2a1b88e6.js",
+    "main.css": "/chatTest/static/css/main.e2285073.css",
+    "main.js": "/chatTest/static/js/main.2e9281c6.js",
     "static/media/SF-Pro-Display-Medium.otf": "/chatTest/static/media/SF-Pro-Display-Medium.74b08c78b591f89b9b19.otf",
     "static/media/SF-Pro-Text-Medium.otf": "/chatTest/static/media/SF-Pro-Text-Medium.8ef685ce7fe4aa52e857.otf",
     "static/media/SF-Pro-Display-Regular.otf": "/chatTest/static/media/SF-Pro-Display-Regular.fe3fcdae162405bdc748.otf",
@@ -35,11 +35,11 @@
     "static/media/myProfileImg.svg": "/chatTest/static/media/myProfileImg.515d2437df749f89f7f59476f9859367.svg",
     "static/media/arrow-down-24.svg": "/chatTest/static/media/arrow-down-24.b9e4642bc226c9c5e40ac403d2874216.svg",
     "static/media/onlineCircle.svg": "/chatTest/static/media/onlineCircle.b4bae78e103d21dc98756ad1c01489e3.svg",
-    "main.e1aa0065.css.map": "/chatTest/static/css/main.e1aa0065.css.map",
-    "main.2a1b88e6.js.map": "/chatTest/static/js/main.2a1b88e6.js.map"
+    "main.e2285073.css.map": "/chatTest/static/css/main.e2285073.css.map",
+    "main.2e9281c6.js.map": "/chatTest/static/js/main.2e9281c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1aa0065.css",
-    "static/js/main.2a1b88e6.js"
+    "static/css/main.e2285073.css",
+    "static/js/main.2e9281c6.js"
   ]
 }
